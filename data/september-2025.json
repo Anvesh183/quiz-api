@@ -1,0 +1,260 @@
+[
+  {
+    "question": "Who launched Phase II of the 'Niveshak Didi' financial literacy initiative?",
+    "options": [
+      "Reserve Bank of India (RBI)",
+      "Investor Education and Protection Fund Authority (IEPFA)",
+      "Securities and Exchange Board of India (SEBI)",
+      "National Bank for Agriculture and Rural Development (NABARD)"
+    ],
+    "answer": "Investor Education and Protection Fund Authority (IEPFA)",
+    "explanation": "IEPFA, under the Ministry of Corporate Affairs, launched Niveshak Didi — Phase II in Hyderabad.",
+    "topic": "Government schemes"
+  },
+  {
+    "question": "Under which Ministry does IEPFA operate?",
+    "options": [
+      "Ministry of Finance",
+      "Ministry of Corporate Affairs",
+      "Ministry of Consumer Affairs",
+      "Ministry of Electronics & IT"
+    ],
+    "answer": "Ministry of Corporate Affairs",
+    "explanation": "IEPFA was established by the Government of India under the Ministry of Corporate Affairs.",
+    "topic": "Government schemes"
+  },
+  {
+    "question": "Where was Niveshak Didi – Phase II launched?",
+    "options": ["New Delhi", "Hyderabad", "Mumbai", "Ahmedabad"],
+    "answer": "Hyderabad",
+    "explanation": "IEPFA launched Phase II of Niveshak Didi at Hyderabad.",
+    "topic": "Government schemes"
+  },
+  {
+    "question": "Niveshak Didi primarily aims to:",
+    "options": [
+      "Promote export subsidies",
+      "Deepen financial awareness, especially among rural women",
+      "Subsidize personal loans for urban youth",
+      "Regulate crypto exchanges"
+    ],
+    "answer": "Deepen financial awareness, especially among rural women",
+    "explanation": "The initiative focuses on empowering rural communities, particularly women, via financial literacy.",
+    "topic": "Government schemes"
+  },
+  {
+    "question": "From which date will India implement the OECD's Crypto-Asset Reporting Framework (CARF)?",
+    "options": [
+      "April 1, 2025",
+      "April 1, 2026",
+      "April 1, 2027",
+      "January 1, 2027"
+    ],
+    "answer": "April 1, 2027",
+    "explanation": "India will implement OECD’s CARF from April 1, 2027.",
+    "topic": "Economy"
+  },
+  {
+    "question": "What is the main aim of implementing the CARF in India?",
+    "options": [
+      "Ban private cryptocurrencies",
+      "Bring offshore crypto holdings of residents under the tax net",
+      "Launch a CBDC for retail",
+      "Fix crypto prices via regulation"
+    ],
+    "answer": "Bring offshore crypto holdings of residents under the tax net",
+    "explanation": "CARF reporting is intended to capture offshore crypto holdings for tax compliance.",
+    "topic": "Economy"
+  },
+  {
+    "question": "For 2025/2026, India has allowed ethanol production from sugarcane juice, syrup and all types of molasses with:",
+    "options": [
+      "A cap of 2 billion litres",
+      "State-wise quotas only",
+      "No quantitative restriction",
+      "Only for export purposes"
+    ],
+    "answer": "No quantitative restriction",
+    "explanation": "For the new ethanol supply year starting November 1, production is allowed without volume caps.",
+    "topic": "National"
+  },
+  {
+    "question": "Why was ethanol production restricted in the current marketing year?",
+    "options": [
+      "Surplus sugar stocks",
+      "Drop in sugarcane supplies",
+      "Fuel price collapse",
+      "Export demand surge"
+    ],
+    "answer": "Drop in sugarcane supplies",
+    "explanation": "The world’s #2 sugar producer restricted production earlier due to lower sugarcane availability.",
+    "topic": "National"
+  },
+  {
+    "question": "The ethanol supply year referenced above begins on:",
+    "options": ["April 1", "July 1", "October 1", "November 1"],
+    "answer": "November 1",
+    "explanation": "The new ethanol supply year starts from November 1.",
+    "topic": "National"
+  },
+  {
+    "question": "The Centre’s rice procurement target for the 2025–26 season is:",
+    "options": [
+      "48.50 million tonnes",
+      "46.34 million tonnes",
+      "50.00 million tonnes",
+      "44.00 million tonnes"
+    ],
+    "answer": "46.34 million tonnes",
+    "explanation": "Target fixed at 46.34 MT for 2025–26, starting October.",
+    "topic": "National"
+  },
+  {
+    "question": "The 2025–26 rice procurement target is ____ than the 2024–25 target.",
+    "options": ["4.45% higher", "4.45% lower", "2% higher", "Unchanged"],
+    "answer": "4.45% lower",
+    "explanation": "2024–25 target was 48.5 MT; 46.34 MT is about 4.45% lower.",
+    "topic": "National"
+  },
+  {
+    "question": "Who launched the 'Kapas Kisan' mobile app?",
+    "options": [
+      "Union Minister of Agriculture",
+      "Union Minister of Textiles Giriraj Singh",
+      "SEBI Chairman",
+      "NITI Aayog Vice-Chairman"
+    ],
+    "answer": "Union Minister of Textiles Giriraj Singh",
+    "explanation": "The app was launched by the Union Minister of Textiles.",
+    "topic": "Apps and Portals"
+  },
+  {
+    "question": "Which organisation developed the Kapas Kisan app?",
+    "options": [
+      "Cotton Corporation of India (CCI)",
+      "Agricultural and Processed Food Products Export Development Authority (APEDA)",
+      "Indian Council of Agricultural Research (ICAR)",
+      "National Informatics Centre (NIC)"
+    ],
+    "answer": "Cotton Corporation of India (CCI)",
+    "explanation": "CCI, under the Ministry of Textiles, developed the app.",
+    "topic": "Apps and Portals"
+  },
+  {
+    "question": "The primary aim of the Kapas Kisan app is to:",
+    "options": [
+      "Distribute free seeds to farmers",
+      "Facilitate MSP-based cotton procurement from farmers",
+      "Provide crop insurance directly",
+      "Enable futures trading in cotton"
+    ],
+    "answer": "Facilitate MSP-based cotton procurement from farmers",
+    "explanation": "The app supports seamless MSP procurement by CCI.",
+    "topic": "Apps and Portals"
+  },
+  {
+    "question": "What is the revised GST rate on all agricultural equipment?",
+    "options": ["12%", "5%", "18%", "0% (exempt)"],
+    "answer": "5%",
+    "explanation": "GST reduced from 12% to 5% for all agricultural equipment.",
+    "topic": "Economy"
+  },
+  {
+    "question": "Which of the following are taxed at 40% GST as per the update?",
+    "options": [
+      "Basic groceries",
+      "Books and educational material",
+      "Tobacco, pan masala, aerated drinks, luxury goods",
+      "Public transport services"
+    ],
+    "answer": "Tobacco, pan masala, aerated drinks, luxury goods",
+    "explanation": "These are listed at 40% in the update.",
+    "topic": "Economy"
+  },
+  {
+    "question": "Which insurance products are now exempt from GST?",
+    "options": [
+      "Only group life policies",
+      "All individual life insurance policies",
+      "Only ULIPs above ₹5 lakh sum assured",
+      "Only annuity plans for seniors"
+    ],
+    "answer": "All individual life insurance policies",
+    "explanation": "Term, ULIP, and endowment policies (individual) are exempt.",
+    "topic": "Economy"
+  },
+  {
+    "question": "Which health insurance products are covered by the GST exemption?",
+    "options": [
+      "Only government health schemes",
+      "Only individual policies for those under 45",
+      "All individual health insurance policies, including family floater and senior citizen policies",
+      "Only group mediclaim policies"
+    ],
+    "answer": "All individual health insurance policies, including family floater and senior citizen policies",
+    "explanation": "The exemption includes individual health policies and their reinsurance.",
+    "topic": "Economy"
+  },
+  {
+    "question": "Does the GST exemption also apply to reinsurance of the exempt individual life/health policies?",
+    "options": ["Yes", "No", "Only for life", "Only for health"],
+    "answer": "Yes",
+    "explanation": "The GST Council approved exemption for reinsurance thereof as well.",
+    "topic": "Economy"
+  },
+  {
+    "question": "The 2025–26 rice procurement season will begin in:",
+    "options": ["January", "October", "November", "April"],
+    "answer": "October",
+    "explanation": "Procurement season begins in October.",
+    "topic": "National"
+  },
+  {
+    "question": "Which of the following entities was directed by the Supreme Court to disburse Rs 5,000 crore from the deposited amount to repay the dues of the depositors of the Sahara Group of Cooperative Societies?",
+    "options": [
+      "Reserve Bank of India (RBI)",
+      "Securities and Exchange Board of India (SEBI)",
+      "National Bank for Agriculture and Rural Development (NABARD)",
+      "Larsen & Toubro (L&T)"
+    ],
+    "answer": "Securities and Exchange Board of India (SEBI)",
+    "explanation": "The Supreme Court ordered the Securities and Exchange Board of India (SEBI) to disburse Rs 5,000 crore out of the over Rs 24,000 crore deposited by the Sahara Group to repay depositors.",
+    "topic": "National"
+  },
+  {
+    "question": "Larsen & Toubro (L&T) has been awarded a contract by the National High Speed Rail Corporation Limited (NHSRCL) for the construction of a ballastless track for which high-speed rail corridor?",
+    "options": [
+      "Delhi–Varanasi High-Speed Rail Corridor",
+      "Mumbai–Ahmedabad High-Speed Rail Corridor",
+      "Delhi–Amritsar High-Speed Rail Corridor",
+      "Chennai–Bengaluru–Mysuru High-Speed Rail Corridor"
+    ],
+    "answer": "Mumbai–Ahmedabad High-Speed Rail Corridor",
+    "explanation": "Larsen & Toubro (L&T) secured a deal from NHSRCL to construct 156 route kilometres of ballastless track for the Mumbai–Ahmedabad High-Speed Rail corridor.",
+    "topic": "National"
+  },
+  {
+    "question": "Which two companies have partnered with the Ministry of Road Transport and Highways to distribute promotional material and share road safety tips under the 'Sadak Suraksha Abhiyan'?",
+    "options": [
+      "Swiggy and Ola",
+      "Amazon and Flipkart",
+      "Zomato and Uber",
+      "MakeMyTrip and Goibibo"
+    ],
+    "answer": "Zomato and Uber",
+    "explanation": "Zomato and Uber announced a partnership with the Ministry of Road Transport and Highways to share road safety tips and announcements on their apps as part of the Sadak Suraksha Abhiyan.",
+    "topic": "Ministries"
+  },
+  {
+    "question": "Where was the foundation stone for India's first 'PM Mitra Park' laid by Prime Minister Modi?",
+    "options": [
+      "Surat, Gujarat",
+      "Kanchipuram, Tamil Nadu",
+      "Dhar, Madhya Pradesh",
+      "Panipat, Haryana"
+    ],
+    "answer": "Dhar, Madhya Pradesh",
+    "explanation": "Prime Minister Modi laid the foundation stone for India’s first 'PM Mitra Park' in the village of Bhainsola, located in the Dhar district of Madhya Pradesh.",
+    "topic": "1st of its kind"
+  }
+]
