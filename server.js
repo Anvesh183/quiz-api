@@ -1,16 +1,45 @@
 import express from "express";
 import cors from "cors";
-import fs from "fs/promises"; // Module to read files
+import fs from "fs/promises";
 import path from "path";
 
 const app = express();
-const port = process.env.PORT || 10000; // Render provides the PORT variable
+const port = process.env.PORT || 10000;
 const DATA_DIR = path.join(process.cwd(), "data");
 
-app.use(cors()); // Enable cross-origin requests
+// Define your available topics here
+const availableTopics = [
+  "Regulatory bodies",
+  "Government schemes",
+  "1st of its kind",
+  "Cabinet Approvals",
+  "National",
+  "Insurance",
+  "Banking",
+  "Economy",
+  "Finance",
+  "Ministries",
+  "International Organisations",
+  "Reports and Indices",
+  "State",
+  "Sports",
+  "Person in News",
+  "Misc",
+  "Defence",
+  "S&T",
+  "Apps and Portals",
+];
 
-// API endpoint to get ALL questions combined
+app.use(cors());
+
+// NEW ENDPOINT: To get the list of topics
+app.get("/topics", (req, res) => {
+  res.json(availableTopics);
+});
+
+// Endpoint to get ALL questions combined
 app.get("/questions", async (req, res) => {
+  // ... (this part remains the same)
   try {
     const files = await fs.readdir(DATA_DIR);
     const allQuestions = [];
@@ -26,8 +55,9 @@ app.get("/questions", async (req, res) => {
   }
 });
 
-// API endpoint to get questions for a SPECIFIC month
+// Endpoint to get questions for a SPECIFIC month
 app.get("/questions/:monthId", async (req, res) => {
+  // ... (this part remains the same)
   const { monthId } = req.params;
   const filePath = path.join(DATA_DIR, `${monthId}.json`);
   try {
