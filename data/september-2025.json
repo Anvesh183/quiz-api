@@ -256,5 +256,93 @@
     "answer": "Dhar, Madhya Pradesh",
     "explanation": "Prime Minister Modi laid the foundation stone for India’s first 'PM Mitra Park' in the village of Bhainsola, located in the Dhar district of Madhya Pradesh.",
     "topic": "1st of its kind"
+  },
+  {
+    "question": "Which country outside of India has become the first to establish a Jan Aushadhi Kendra, marking a major step in bilateral cooperation on affordable healthcare?",
+    "options": ["Nepal", "Bhutan", "Bangladesh", "Mauritius"],
+    "answer": "Mauritius",
+    "explanation": "The foundation for the first Jan Aushadhi Kendra outside India has been successfully established in **Mauritius**. This initiative promotes the availability of quality generic medicines at affordable prices through the Pradhan Mantri Bhartiya Janaushadhi Pariyojana (PMBJP).",
+    "topic": "India's International"
+  },
+  {
+    "question": "The Fast Track Immigration - Trusted Traveller Program (FTI-TTP) was recently inaugurated at 5 new airports. If the program was first launched at Delhi in 2024, what is the current total number of airports across the country where this facility has been implemented?",
+    "options": ["8 airports", "10 airports", "13 airports", "15 airports"],
+    "answer": "13 airports",
+    "explanation": "Union Home Minister Amit Shah inaugurated the Fast Track Immigration - Trusted Traveller Program (FTI-TTP) at five new airports: **Lucknow, Thiruvananthapuram, Trichy, Calicut, and Amritsar**. This program, launched in Delhi in 2024, now covers a total of **13 airports** across the country, providing faster and secure immigration clearance for Indian Nationals and Overseas Citizens of India (OCI) passengers.",
+    "topic": "National"
+  },
+  {
+    "question": "The Ministry of New and Renewable Energy (MoNRE) announced India has achieved the 250-gigawatt (GW) mark for non-fossil fuel electricity generation capacity. What is India's specified target for renewable energy capacity and the deadline to achieve it?",
+    "options": [
+      "300 GW by 2030",
+      "500 GW by 2030",
+      "275 GW by 2025",
+      "400 GW by 2028"
+    ],
+    "answer": "500 GW by 2030",
+    "explanation": "India has surpassed the **250 GW** capacity for non-fossil fuel electricity generation. The country's ambitious target, as per MoNRE, is to have **500 GW** of renewable energy capacity installed by the year **2030**.",
+    "topic": "National"
+  },
+  {
+    "question": "Which All India Institute of Medical Sciences (AIIMS) launched the AI-based mental health and wellness program called 'Never Alone,' specifically aimed at addressing student suicides?",
+    "options": [
+      "AIIMS, Bhopal",
+      "AIIMS, New Delhi",
+      "AIIMS, Rishikesh",
+      "AIIMS, Jodhpur"
+    ],
+    "answer": "AIIMS, New Delhi",
+    "explanation": "The All India Institute of Medical Sciences (**AIIMS, New Delhi**) launched the AI-based mental health and wellness program, **“Never Alone.”** Its primary aim is to tackle the critical issue of student suicides and enhance mental health awareness among the student community.",
+    "topic": "National"
+  },
+  {
+    "question": "Identify the 'World’s First Digital Tribal University' launched by India, which includes a digital academy, e-learning platform, and an online marketplace for tribal art and knowledge systems.",
+    "options": [
+      "Parampara Digital Gurukul",
+      "Adivasi Shiksha Hub",
+      "Adi Sanskriti",
+      "Ekalavya Vartual University"
+    ],
+    "answer": "Adi Sanskriti",
+    "explanation": "India launched the **World’s First Digital Tribal University** named **‘Adi Sanskriti’**. It is designed as a digital academy and e-learning platform, complete with an online marketplace to promote tribal art, culture, crafts, and knowledge systems to national and global audiences.",
+    "topic": "1st of its kind"
+  },
+  {
+    "question": "India's first bamboo-based biorefinery was inaugurated by Prime Minister Modi. This facility is located in which specific district of Assam?",
+    "options": ["Kamrup Metropolitan", "Dibrugarh", "Jorhat", "Golaghat"],
+    "answer": "Golaghat",
+    "explanation": "Prime Minister Modi inaugurated **India’s first bamboo-based biorefinery** at the **Golaghat district** in **Assam**. Biorefineries convert biomass, in this case, bamboo, into various products, including advanced biofuels.",
+    "topic": "1st of its kind"
+  },
+  {
+    "question": "The Ministry of New and Renewable Energy (MoNRE) announced a total financial support of Rs 100 crore for start-ups in green hydrogen R&D. What is the maximum financial support permissible for a single project under this initiative?",
+    "options": ["Rs 1 crore", "Rs 5 crore", "Rs 10 crore", "Rs 25 crore"],
+    "answer": "Rs 5 crore",
+    "explanation": "MoNRE allocated **Rs 100 crore** for start-ups engaged in green hydrogen research and development (R&D), with the financial support capped at a maximum of **Rs 5 crore per project**.",
+    "topic": "Ministries"
+  },
+  {
+    "question": "The 'Sarpanch Samvaad National Quality Conclave' was organized by the Ministry of Jal Shakti (MoJS) in collaboration with which other Union Ministry, to foster progress in villages based on the twin pillars of Swachhata and Suraksha?",
+    "options": [
+      "Ministry of Rural Development (MoRD)",
+      "Ministry of Panchayati Raj (MoPR)",
+      "Ministry of Agriculture and Farmers' Welfare",
+      "Ministry of Housing and Urban Affairs (MoHUA)"
+    ],
+    "answer": "Ministry of Panchayati Raj (MoPR)",
+    "explanation": "The **Sarpanch Samvaad National Quality Conclave** was organized by the **Ministry of Jal Shakti (MoJS)** in collaboration with the **Ministry of Panchayati Raj (MoPR)** in New Delhi. The conclave aims to bring the two and a half lakh Sarpanchs onto a single platform for collective progress on the pillars of **Swachhata (cleanliness) and Suraksha (safety)**.",
+    "topic": "Ministries"
+  },
+  {
+    "question": "The Railway Ministry decided to mandate Aadhaar-authenticated booking for reserved general tickets on IRCTC for the first 15 minutes of reservation opening. This new restriction, which currently applies only to Tatkal bookings, will be enforced from which date?",
+    "options": [
+      "1st January 2025",
+      "1st April 2025",
+      "1st October 2025",
+      "1st January 2026"
+    ],
+    "answer": "1st October 2025",
+    "explanation": "The Railway Ministry has announced that the restriction requiring **Aadhaar-authenticated users** to book reserved general tickets for the first **15 minutes** of general reservation will come into effect from the **1st of October 2025**. Currently, this mandate is restricted only to Tatkal bookings.",
+    "topic": "Ministries"
   }
 ]
