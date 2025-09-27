@@ -32,14 +32,16 @@ const availableTopics = [
 
 app.use(cors());
 
-// NEW ENDPOINT: To get the list of topics
+// ==========================================================
+// THIS IS THE MISSING ENDPOINT
+// ==========================================================
 app.get("/topics", (req, res) => {
   res.json(availableTopics);
 });
+// ==========================================================
 
 // Endpoint to get ALL questions combined
 app.get("/questions", async (req, res) => {
-  // ... (this part remains the same)
   try {
     const files = await fs.readdir(DATA_DIR);
     const allQuestions = [];
@@ -57,7 +59,6 @@ app.get("/questions", async (req, res) => {
 
 // Endpoint to get questions for a SPECIFIC month
 app.get("/questions/:monthId", async (req, res) => {
-  // ... (this part remains the same)
   const { monthId } = req.params;
   const filePath = path.join(DATA_DIR, `${monthId}.json`);
   try {
